@@ -45,5 +45,8 @@ php artisan serve
 
 
 
-
+*View documentation of this project 
+```bash
+https://documenter.getpostman.com/view/29639508/2s9YC5zYK1
+```
 [comment]: <> (Check the docs [here]&#40;https://documenter.getpostman.com/view/7185838/TVetaR6x&#41;)
