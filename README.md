@@ -49,10 +49,11 @@ php artisan serve
 ```bash
 http://hngx.paym.com.ng/api/
 ```
-
-![uml](https://github.com/success2202/HNG-Task-Two/assets/75064203/ceff801a-6449-42b1-b960-cb76ae21d77b)
 *View documentation of this project 
 ```bash
 https://documenter.getpostman.com/view/29639508/2s9YC5zYK1
 ```
+*UML diagram of project
+![uml](https://github.com/success2202/HNG-Task-Two/assets/75064203/ceff801a-6449-42b1-b960-cb76ae21d77b)
+
 [comment]: <> (Check the docs [here]&#40;https://documenter.getpostman.com/view/7185838/TVetaR6x&#41;)
