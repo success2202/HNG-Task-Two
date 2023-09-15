@@ -1,3 +1,4 @@
+
 # HNGx Task Two
 ######HNGX backend programming task two
 
@@ -40,7 +41,7 @@ php artisan migrate --seed
 php artisan serve
 ```
 *Server starts at 127.0.0.1:8000 
-```bash![uml](https://github.com/success2202/HNG-Task-Two/assets/75064203/20c1246b-acb1-4b77-9c48-3d5e580508ac)
+```bash
 
 ```
 *Add /api to the url on postman 
@@ -49,7 +50,7 @@ php artisan serve
 http://hngx.paym.com.ng/api/
 ```
 
-
+![uml](https://github.com/success2202/HNG-Task-Two/assets/75064203/ceff801a-6449-42b1-b960-cb76ae21d77b)
 *View documentation of this project 
 ```bash
 https://documenter.getpostman.com/view/29639508/2s9YC5zYK1
