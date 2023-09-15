@@ -11,7 +11,8 @@
 ```bash
 composer install
 ```
-```bash
+```bash![uml](https://github.com/success2202/HNG-Task-Two/assets/75064203/ea9cea96-417d-4f9b-955e-bcd18eab1a15)
+
 npm install
 ```
 *Duplicate the .env file
@@ -39,7 +40,8 @@ php artisan migrate --seed
 php artisan serve
 ```
 *Server starts at 127.0.0.1:8000 
-```bash
+```bash![uml](https://github.com/success2202/HNG-Task-Two/assets/75064203/20c1246b-acb1-4b77-9c48-3d5e580508ac)
+
 ```
 *Add /api to the url on postman 
 
