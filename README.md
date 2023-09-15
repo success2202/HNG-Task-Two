@@ -43,6 +43,9 @@ php artisan serve
 ```
 *Add /api to the url on postman 
 
+```bash
+http://hngx.paym.com.ng/api/
+```
 
 
 *View documentation of this project 
